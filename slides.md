@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# Go Concurrency Constructs with atomic operations
+# Go Concurrency Constructs 2.0
 
 Gaurav Agarwal
 
