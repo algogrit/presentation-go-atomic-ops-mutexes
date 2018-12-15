@@ -233,7 +233,7 @@ class: center, middle
 ---
 class: center, middle
 
-[Bank Account example](https://exercism.io/profiles/codebender)
+[Bank Account example](https://exercism.io/tracks/go/exercises/bank-account/solutions/179b8c0b59ec4cd8a04cbf4f36ff31a4)
 
 .content-credits[© [codebender](https://exercism.io/profiles/codebender), [exercism.io](https://exercism.io)]
 
