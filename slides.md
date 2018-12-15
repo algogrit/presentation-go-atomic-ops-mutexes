@@ -76,16 +76,9 @@ Scrape for a particular type of products: TV
 .image-credits[https://www.amazon.in/]
 
 ---
+class: center, middle
 
-# Scraper
-
-.left-column[
-Product
-]
-
-.right-column[
-  ![Parse product](assets/images/code-product-struct.png)
-]
+![Parse product](assets/images/code-product-struct.png)
 
 .image-credits[https://carbon.now.sh/]
 
