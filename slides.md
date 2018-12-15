@@ -33,7 +33,7 @@ ex-Consultant, ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
   * sync.WaitGroup
   * Mutexes
   * Channels
-* Atomic Operations
+* Closer look at mutexes & atomic operations
 
 ---
 
@@ -231,7 +231,9 @@ https://github.com/golang/go/blob/master/src/runtime/internal/atomic/asm_386.s#L
 ---
 class: center, middle
 
-# Mutex
+# Other mutexes
+
+[RWMutex](https://golang.org/pkg/sync/#RWMutex)
 
 ---
 class: center, middle
