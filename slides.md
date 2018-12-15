@@ -8,6 +8,8 @@ class: center, middle
 
 # Go Concurrency Constructs 2.0
 
+##### Alternatively - Atomic operations and Mutexes *as well*
+
 Gaurav Agarwal
 
 ---
