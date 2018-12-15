@@ -80,6 +80,20 @@ Scrape for a particular type of products: TV
 # Scraper
 
 .left-column[
+Product
+]
+
+.right-column[
+  ![Parse product](assets/images/code-product-struct.png)
+]
+
+.image-credits[https://carbon.now.sh/]
+
+---
+
+# Scraper
+
+.left-column[
 For each product,
 
 Get **name**, **image**, **price** and **link**
